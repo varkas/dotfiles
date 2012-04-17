@@ -1,0 +1,5 @@
+URxvt*font: 	xft:Monospace:size=12
+URxvt*scrollBar: False
+URxvt*background: grey10
+URxvt*foreground: grey75
+URxvt*saveLines: 9999
